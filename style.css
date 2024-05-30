@@ -23,6 +23,7 @@ body {
 
   text{
     text-align:center;
+    display: block;
   }
 
   img{
@@ -41,5 +42,6 @@ body {
 
   footer{
     text-align:center;
+    display: block;
     
   }
