@@ -1,16 +1,17 @@
 header{
     text-align:center;
+    background: #B0D4B8;
 }
 
 body {
-    background: #CCFFFF;
+    background: #D7F9FA;
     margin: 0;
     padding: 0;
 
   }
 
   main{
-    background: #bae0ff;
+    background: #EAE7D6;
     display: block;
     font-size: 14px;
     height: 50%;
